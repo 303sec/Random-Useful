@@ -8,3 +8,8 @@ Random useful links, scripts, general notes. Things that I know I'll need again 
 [Bug Bounty Writeups / Reference](https://github.com/ngalongc/bug-bounty-reference)
 
 [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)
+
+
+TMUX YAY:
+
+.tmux.conf > set -g mouse on
